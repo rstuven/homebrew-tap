@@ -1,6 +1,6 @@
 # My Homebrew Tap
 
-This is a home for my [Homebrew](https://brew.sh/) (aka Brew) "formulae" non-compliant with `homebrew/core` [acceptance criteria](https://github.com/Homebrew/brew/blob/master/docs/Acceptable-Formulae.md).
+This is a home for my [Homebrew](https://brew.sh/) formulas which are non-compliant with `homebrew/core` [acceptance criteria](https://github.com/Homebrew/brew/blob/master/docs/Acceptable-Formulae.md).
 
 ## Usage
 
