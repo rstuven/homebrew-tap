@@ -1,8 +1,8 @@
 class Kubediff < Formula
   desc "A tool for Kubernetes to show differences between running state and version controlled configuration."
   homepage "https://github.com/weaveworks/kubediff"
-  url "https://github.com/weaveworks/kubediff/archive/d6f9337b580ce897c6f8035f1de641ae0427fd99.zip"
-  sha256 "3a5a126b5f68a97c3b842f519e206d8766472808e75ed5df680bf972f3677d10"
+  url "https://github.com/rstuven/kubediff/archive/current-context-namespace.zip"
+  sha256 "937146ffee30768edbdd68aa24ec4b8a539f67dcf0d88011a398b20fb86a13b8"
   version "0.1.0"
   
   depends_on :python if MacOS.version <= :snow_leopard
