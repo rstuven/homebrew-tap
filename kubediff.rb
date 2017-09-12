@@ -3,7 +3,7 @@ class Kubediff < Formula
   homepage "https://github.com/weaveworks/kubediff"
   url "https://github.com/rstuven/kubediff/archive/current-context-namespace.zip"
   sha256 "937146ffee30768edbdd68aa24ec4b8a539f67dcf0d88011a398b20fb86a13b8"
-  version "0.1.0"
+  version "0.1.1"
   
   depends_on :python if MacOS.version <= :snow_leopard
 
